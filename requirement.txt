@@ -1,0 +1,13 @@
+transformers
+torch
+accelerate
+tokenizers
+datasets
+numpy
+pandas
+pandarallel
+vllm
+wandb
+tqdm
+deepspeed
+trl
