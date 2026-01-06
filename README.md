@@ -1,6 +1,6 @@
 <div align="center">
 
-# LaCoMSA: Language-Consistency Multilingual Self-Alignment
+# LaCoMSA: Language-Consistency Multilingual Self-Alignment with Latent Representation Rewarding
 </div>
 
 Khanh-Tung Tran, Barry O'Sullivan, Hoang D. Nguyen
